@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"game","l":"Aliens"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"game","l":"Bonus"},{"p":"game","l":"Ship.Bullets"},{"p":"game","l":"Charecter"},{"p":"game","l":"Aliens.EnemyBullets"},{"p":"game","l":"Ship"},{"p":"game","l":"SpaceInvaders"}];updateSearchResults();
